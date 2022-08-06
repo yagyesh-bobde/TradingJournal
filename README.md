@@ -9,8 +9,7 @@ https://tradingjournal-mern-app.herokuapp.com/login
     npm install react-bootstrap bootstrap
     npm i react-calendar
     npm i react-chartjs-2 chart.js
-
-
-
-<!-- TODO: 1.Add the link to Project in footer -->
-<!-- TODO: Work on real time updates on the charts in analytics page -->
+## App Description: 
+TradingJournal aims to provide traders a proper system to store and maintain their trading planes and strategies in one place.<br> 
+All their notes will be saved in a cloud database so they don't have to wory about stoage and security here we also aim to provide Analytical features that will help traders to improve their skills.
+### Backend for this project can be found here-> https://github.com/yagyesh-bobde/TradingJournal-BackEnd
