@@ -1,3 +1,6 @@
+# Visit the website: 
+https://tradingjournal-mern-app.herokuapp.com/login
+
 ## Getting started with the React app
     npx create-react-app <project-name>
 <i>NOTE: Make sure the first letter of project folder isn't capitalized.</i>
