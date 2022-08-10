@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='row' style={{ marginTop: '2%' }}>
             <p>This project is a Full-Stack web development project using MERN stack.The code for this project can be found 
                 {/* TODO: ADD THE PROJECT LINK HERE */}
-            <a href=''> here.</a>.</p>
+            <a href='https://github.com/yagyesh-bobde/TradingJournal-Frontend'> here.</a>.</p>
         </div>
         <div className="row" style={{ width: '10%', marginLeft: '45%' }}>
             <ButtonGroup aria-label="Basic example">
